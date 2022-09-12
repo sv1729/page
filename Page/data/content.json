@@ -1,0 +1,42 @@
+{
+	"MRN": " 0017484350 ",
+	"patName": "John Abraham ",
+	"gender":"Male",
+	"enc": "220344418428",
+	"dob": "12/12/1978",
+	"SSN": "xxx-xx-xxxx",
+    "Date": "19/02/2022,8:30AM",
+	"provider": "Swaram Prakash(M.S.)",
+	"Department": "Kaiser",
+	"Encounter": "74426389999",
+	"Location": "WHYB",
+	"Mostrecentupdate": "3/12/2022 8:20AM",
+	"BP": "112/56(BP Location:LA-LEFT ARM,BP Patient Position:SITTING,Cuff Size: Standard Adult)",
+	"Pulse":"69",
+	"Temp":"98.4F(36.7C)",
+	"Resp": "16",
+	"Ht":"1.854m(6.1)",
+	"wt":"75.9kg(198 lb 3.1oz)",
+	"BMI":"21.15kg/m",
+	"VitalsHistory":"",
+	"StatinsClass[hmg-coaReductaseInhibitors]":"leg pain",
+	"Noted":"10/19/2015",
+	"Reaction Type":"null",
+    "Reactions":"Other",
+	"Keppra[levetiracetam]":"null",
+	"06/09/2015":"null",
+	"SkinRashAnd/orhives":"",
+	"SulfaClass[sulfa(sulfonamideAntibiotics)]":"Had headache with sulfa eye drop",
+	"06/15/2006":"null",
+	"Allergy":"",
+	"Other":"",
+	"cc":"Covaxin, Swaram Prakash(M.S),M.S at5/11/2021 11:31AM",
+	"Status":"Signed",
+	"ESW":"Covaxin,Swaram Prakash(M.S.)",
+	"Patient present with":"",
+	"RESULTSREVIEW":"follow up"
+	
+
+
+}
+
